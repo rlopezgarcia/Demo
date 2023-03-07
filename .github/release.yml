@@ -15,5 +15,5 @@ changelog:
         - enhacement
     - title: Other Changes
       labels:
-        - *
+        - "*"
 
